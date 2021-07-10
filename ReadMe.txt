@@ -1,8 +1,3 @@
-Jonathan S. Weissman
-CIS 554-M401 Object Oriented Programming in C++
-Syracuse University
-
-Final Project
 
 Author: Simon Garfe Herrera
 
